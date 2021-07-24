@@ -1,7 +1,7 @@
 const pokemons = [
   {
     id: 1,
-    name: "bulbasaur",
+    name: "grren-thing",
     img: 'https://static.wikia.nocookie.net/kingdom-keymasters-database/images/2/27/001Bulbasaur_XY_anime.png/revision/latest?cb=20160927122032',
     likes: 4
   },
